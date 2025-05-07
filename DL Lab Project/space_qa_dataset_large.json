@@ -1,0 +1,2054 @@
+{
+  "data": [
+    {
+      "title": "Planets",
+      "paragraphs": [
+        {
+          "context": "The solar system has eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Mercury is the closest to the Sun. Venus has a thick toxic atmosphere. Earth supports life. Mars is known as the Red Planet. Jupiter is the largest planet and has a Great Red Spot. Saturn has prominent rings. Uranus rotates on its side. Neptune has supersonic winds.",
+          "qas": [
+            {
+              "question": "What is the closest planet to the Sun?",
+              "answers": [
+                {
+                  "text": "Mercury"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "Which planet is known as the Red Planet?",
+              "answers": [
+                {
+                  "text": "Mars"
+                }
+              ]
+            },
+            {
+              "question": "What is the largest planet?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a Great Red Spot?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has prominent rings?",
+              "answers": [
+                {
+                  "text": "Saturn"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has supersonic winds?",
+              "answers": [
+                {
+                  "text": "Neptune"
+                }
+              ]
+            },
+            {
+              "question": "What is the largest planet?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "What do Mars rovers study?",
+              "answers": [
+                {
+                  "text": "Martian surface and geology"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "How are black holes formed?",
+              "answers": [
+                {
+                  "text": "From the remnants of massive stars"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "What is the closest planet to the Sun?",
+              "answers": [
+                {
+                  "text": "Mercury"
+                }
+              ]
+            },
+            {
+              "question": "What is the largest planet?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has prominent rings?",
+              "answers": [
+                {
+                  "text": "Saturn"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What do Mars rovers study?",
+              "answers": [
+                {
+                  "text": "Martian surface and geology"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "What do Mars rovers study?",
+              "answers": [
+                {
+                  "text": "Martian surface and geology"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "What do Mars rovers study?",
+              "answers": [
+                {
+                  "text": "Martian surface and geology"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "NASA",
+      "paragraphs": [
+        {
+          "context": "NASA has conducted missions like Apollo for moon landings, Voyager for deep space exploration, and Mars rovers to explore the Martian surface. It also operates telescopes like Hubble and James Webb for astronomical observations.",
+          "qas": [
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "What do Mars rovers study?",
+              "answers": [
+                {
+                  "text": "Martian surface and geology"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "How are black holes formed?",
+              "answers": [
+                {
+                  "text": "From the remnants of massive stars"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What do Mars rovers study?",
+              "answers": [
+                {
+                  "text": "Martian surface and geology"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "How are black holes formed?",
+              "answers": [
+                {
+                  "text": "From the remnants of massive stars"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "What do Mars rovers study?",
+              "answers": [
+                {
+                  "text": "Martian surface and geology"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a Great Red Spot?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "How are black holes formed?",
+              "answers": [
+                {
+                  "text": "From the remnants of massive stars"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "What is the closest planet to the Sun?",
+              "answers": [
+                {
+                  "text": "Mercury"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a Great Red Spot?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Black Holes",
+      "paragraphs": [
+        {
+          "context": "Black holes are formed from collapsed stars and have gravitational pulls so strong that not even light can escape. They are found in the centers of galaxies and come in different sizes: stellar, intermediate, and supermassive.",
+          "qas": [
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "How are black holes formed?",
+              "answers": [
+                {
+                  "text": "From the remnants of massive stars"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "What tools do astronomers use?",
+              "answers": [
+                {
+                  "text": "Telescopes and satellites"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "Which planet is known as the Red Planet?",
+              "answers": [
+                {
+                  "text": "Mars"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has supersonic winds?",
+              "answers": [
+                {
+                  "text": "Neptune"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "How are black holes formed?",
+              "answers": [
+                {
+                  "text": "From the remnants of massive stars"
+                }
+              ]
+            },
+            {
+              "question": "How are black holes formed?",
+              "answers": [
+                {
+                  "text": "From the remnants of massive stars"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "What tools do astronomers use?",
+              "answers": [
+                {
+                  "text": "Telescopes and satellites"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What tools do astronomers use?",
+              "answers": [
+                {
+                  "text": "Telescopes and satellites"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SpaceX",
+      "paragraphs": [
+        {
+          "context": "SpaceX is a private space company developing rockets like Falcon 9 and Starship. It launched Crew Dragon with astronauts to the ISS. Its Starlink project aims to provide global internet using satellites.",
+          "qas": [
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "What is the closest planet to the Sun?",
+              "answers": [
+                {
+                  "text": "Mercury"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "How are black holes formed?",
+              "answers": [
+                {
+                  "text": "From the remnants of massive stars"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "What is the largest planet?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What tools do astronomers use?",
+              "answers": [
+                {
+                  "text": "Telescopes and satellites"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has prominent rings?",
+              "answers": [
+                {
+                  "text": "Saturn"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Astronomy",
+      "paragraphs": [
+        {
+          "context": "Astronomy is the scientific study of celestial bodies like stars, planets, and galaxies. Telescopes and satellites help astronomers gather data. Important phenomena include supernovae, pulsars, quasars, and exoplanets.",
+          "qas": [
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "What tools do astronomers use?",
+              "answers": [
+                {
+                  "text": "Telescopes and satellites"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "What types of black holes exist?",
+              "answers": [
+                {
+                  "text": "Stellar, intermediate, and supermassive"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "Which planet is known as the Red Planet?",
+              "answers": [
+                {
+                  "text": "Mars"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "What is the next-generation rocket being built by SpaceX?",
+              "answers": [
+                {
+                  "text": "Starship"
+                }
+              ]
+            },
+            {
+              "question": "What tools do astronomers use?",
+              "answers": [
+                {
+                  "text": "Telescopes and satellites"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has supersonic winds?",
+              "answers": [
+                {
+                  "text": "Neptune"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "Which planet supports life?",
+              "answers": [
+                {
+                  "text": "Earth"
+                }
+              ]
+            },
+            {
+              "question": "Where are supermassive black holes typically found?",
+              "answers": [
+                {
+                  "text": "At the centers of galaxies"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Which planet rotates on its side?",
+              "answers": [
+                {
+                  "text": "Uranus"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a thick toxic atmosphere?",
+              "answers": [
+                {
+                  "text": "Venus"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "What are pulsars?",
+              "answers": [
+                {
+                  "text": "Rotating neutron stars emitting beams of radiation"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope succeeded Hubble?",
+              "answers": [
+                {
+                  "text": "James Webb Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "What is a supernova?",
+              "answers": [
+                {
+                  "text": "An explosion of a dying star"
+                }
+              ]
+            },
+            {
+              "question": "Which telescope is known for deep space images?",
+              "answers": [
+                {
+                  "text": "Hubble Space Telescope"
+                }
+              ]
+            },
+            {
+              "question": "Who founded SpaceX?",
+              "answers": [
+                {
+                  "text": "Elon Musk"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "Name the spacecraft exploring beyond the solar system.",
+              "answers": [
+                {
+                  "text": "Voyager"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a Great Red Spot?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has prominent rings?",
+              "answers": [
+                {
+                  "text": "Saturn"
+                }
+              ]
+            },
+            {
+              "question": "Which spacecraft carried astronauts to the ISS?",
+              "answers": [
+                {
+                  "text": "Crew Dragon"
+                }
+              ]
+            },
+            {
+              "question": "What is a black hole?",
+              "answers": [
+                {
+                  "text": "A region of spacetime with gravity so strong that nothing can escape it"
+                }
+              ]
+            },
+            {
+              "question": "What rocket is known for reusability?",
+              "answers": [
+                {
+                  "text": "Falcon 9"
+                }
+              ]
+            },
+            {
+              "question": "What are exoplanets?",
+              "answers": [
+                {
+                  "text": "Planets outside our solar system"
+                }
+              ]
+            },
+            {
+              "question": "Which planet has a Great Red Spot?",
+              "answers": [
+                {
+                  "text": "Jupiter"
+                }
+              ]
+            },
+            {
+              "question": "What does astronomy study?",
+              "answers": [
+                {
+                  "text": "Stars, planets, galaxies, and the universe"
+                }
+              ]
+            },
+            {
+              "question": "What is the goal of the Starlink project?",
+              "answers": [
+                {
+                  "text": "Global satellite internet"
+                }
+              ]
+            },
+            {
+              "question": "What was the goal of the Apollo missions?",
+              "answers": [
+                {
+                  "text": "To land humans on the Moon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
